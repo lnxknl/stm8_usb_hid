@@ -1,0 +1,15 @@
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/inc/stc8h.h
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/inc/bsp.h
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/inc/lsm6ds3tr.h
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/inc/usb-req-std.h
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/inc/usb.h
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/inc/usb-config.h
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/inc/usb-hid.h
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/inc/sdcc-short.h
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/src/main.c
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/src/usb-req-std.c
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/src/usb.c
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/src/usb-hid.c
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/src/bsp.c
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/src/usb-config.c
+/home/tong/05_files/top_github_aws/eda/oshw-usb-gyro/firmware-gyro-hid/src/lsm6ds3tr.c
